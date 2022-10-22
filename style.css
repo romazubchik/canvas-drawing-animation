@@ -1,0 +1,10 @@
+#canvas {
+    border: 1px solid red;
+    display: block;
+    margin: 0 auto;
+}
+
+#button {
+    display: block;
+    margin: 0 auto;
+}
